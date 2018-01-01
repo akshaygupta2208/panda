@@ -1,0 +1,4 @@
+#Sat Dec 30 15:55:42 IST 2017
+base.0=/home/akshay/AndroidStudioProjects/panda/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex
